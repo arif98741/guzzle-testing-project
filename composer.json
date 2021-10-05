@@ -1,0 +1,13 @@
+{
+  "name": "arif/test",
+  "authors": [
+    {
+      "name": "Ariful",
+      "email": "arif98741@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "7.0"
+  },
+  "minimum-stability": "dev"
+}
